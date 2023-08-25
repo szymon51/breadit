@@ -1,6 +1,8 @@
 # Breadit - A Modern Fullstack Reddit Clone
 
-**You can check out the live website [here](https://breadit-se39.vercel.app/)**
+### You can check out the live website at: [https://breadit-se39.vercel.app](https://breadit-se39.vercel.app)
+
+![screenshot of the breadit website](./public/screenshot.png)
 
 Built with the Next.js App Router, TypeScript & Tailwind with the help of a video tutorial made by [Josh tried coding](https://www.youtube.com/@joshtriedcoding)
 
